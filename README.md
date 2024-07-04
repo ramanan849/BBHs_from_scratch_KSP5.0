@@ -1,2 +1,2 @@
 Hey there! 
-This repository contains the .ipynb COMPAS Outputs for tasks 1,2 and 3 (as of now) 
+This repository contains the COMPAS output files for tasks 1,2,3,0 and 4
