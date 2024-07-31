@@ -1,2 +1,2 @@
 Hey there! 
-This repository contains the COMPAS output files for tasks 1,2,3,0 and 4
+This repository contains the Jupyter notebooks and plots for Tasks 0,1,2,3,4 and 5
