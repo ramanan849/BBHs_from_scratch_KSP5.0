@@ -9,5 +9,8 @@ The folders:
   iii. event-history.txt and event-strings.txt files. <br>
 
 3. **Task1** - contains: <br>
-  i. COMPAS output and BSE-Detailed-Evolution files.
+  i. COMPAS output and BSE-Detailed-Evolution files. <br>
   ii. graphical representation of the life of binary stars, HR diagrams, Mass vs Time, Stellar Type vs Time and Radius vs Time plots for each of the 10 binaries. <br>
+  
+4. **Task2** - contains: <br>
+  i. Matplotlib plots generated from [a relative link](task1,2.ipynb)
