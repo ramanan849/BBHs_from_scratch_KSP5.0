@@ -1,5 +1,6 @@
-_**Binary Black Holes from Scratch**_ [KSP 5.0, Summer '24] <br>
---Gokularamanan R S, IIT Bombay <br>
+#Binary Black Holes from Scratch [KSP 5.0, Summer '24] <br>
+
+*Gokularamanan R S, IIT Bombay* <br>
 
 Hey there! 
 This repository contains the Jupyter notebooks and plots for Tasks 0,1,2,3,4 and 5 that 
