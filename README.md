@@ -1,6 +1,7 @@
+_**Binary Black Holes from Scratch**_ [KSP 5.0 2024]
 
 Hey there! 
-This repository contains the Jupyter notebooks and plots for Tasks 0,1,2,3,4 and 5
+This repository contains the Jupyter notebooks and plots for Tasks 0,1,2,3,4 and 5 that 
 ***
 What the folders contain:
 1. **Task00** : <br>
