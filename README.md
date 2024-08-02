@@ -1,4 +1,5 @@
-_**Binary Black Holes from Scratch**_ [KSP 5.0 2024]
+_**Binary Black Holes from Scratch**_ [KSP 5.0, Summer '24]
+--Gokularamanan R S, IIT Bombay
 
 Hey there! 
 This repository contains the Jupyter notebooks and plots for Tasks 0,1,2,3,4 and 5 that 
