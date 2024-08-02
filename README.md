@@ -1,4 +1,4 @@
-#Binary Black Holes from Scratch [KSP 5.0, Summer '24] <br>
+# Binary Black Holes from Scratch [KSP 5.0, Summer '24] <br>
 
 *Gokularamanan R S, IIT Bombay* <br>
 
