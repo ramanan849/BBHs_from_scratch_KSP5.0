@@ -2,8 +2,9 @@
 
 *Gokularamanan R S, IIT Bombay* <br>
 
-Hey there! 
-This repository contains the Jupyter notebooks and plots for Tasks 0,1,2,3,4 and 5 that 
+Hey there! <br>
+This repository contains the Jupyter notebooks and plots for Tasks 0,1,2,3,4 and 5. <br>
+[Presentation link](https://www.canva.com/design/DAGMytk0FDc/uz7I79qwWs2sOoPqPT-qsQ/view?utm_content=DAGMytk0FDc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ***
 What the folders contain:
 1. **Task00** : <br>
