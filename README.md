@@ -1,6 +1,10 @@
 # Binary Black Holes from Scratch [KSP 5.0, Summer '24] <br>
-
 *Gokularamanan R S, IIT Bombay* <br>
+
+**Mentors**
+- Kunal Deshmukh, PhD, KU Leuven
+- Dr Reinhold Willcox, Post Doc, KU Leuven
+
 
 Hey there! <br>
 This repository contains the Jupyter notebooks and plots for Tasks 0,1,2,3,4 and 5. <br>
