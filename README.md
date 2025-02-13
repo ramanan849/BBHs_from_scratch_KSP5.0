@@ -1,6 +1,7 @@
 # Binary Black Holes from Scratch [KSP 5.0, Summer '24] <br>
 *Gokularamanan R S, IIT Bombay* <br>
 
+[Project REPORT](Project_Report.pdf)
 **Mentors**
 - Kunal Deshmukh, PhD, KU Leuven
 - Dr Reinhold Willcox, Post Doc, KU Leuven
